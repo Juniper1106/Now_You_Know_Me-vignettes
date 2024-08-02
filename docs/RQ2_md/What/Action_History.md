@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 During the design process, you will convert some high-quality product concept images into line sketches. Currently, you have instructed the AI ​​collaborator to generate a new product concept drawing (the image with a yellow border).
 
-<img src="../../img/RQ2/What/Action_History-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Action_History-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 1
 You are using system **DesignPal**.<br>
