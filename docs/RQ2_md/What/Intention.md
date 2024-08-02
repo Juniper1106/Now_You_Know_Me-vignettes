@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 After instructing the AI ​​collaborator to use img A to generate a reference image, you clicked img B during the generation process.
 
-<img src="../../img/RQ2/What/Intention-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Intention-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 1
 You are using system **DesignPal**.<br>
@@ -16,7 +16,7 @@ In this scenario, AI ​​collaborator’s subsequent behavior is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Intention-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Intention-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 2
 You are using system **intCollab**.<br>
@@ -26,4 +26,4 @@ In this scenario, AI ​​collaborator’s subsequent behavior is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Intention-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Intention-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">

@@ -16,7 +16,7 @@ In this scenario, AI ​​collaborator’s subsequent behavior is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Action_History-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Action_History-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 2
 You are using system **intCollab**.<br>
@@ -26,4 +26,4 @@ In this scenario, AI ​​collaborator’s subsequent behavior is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Action_History-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Action_History-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">

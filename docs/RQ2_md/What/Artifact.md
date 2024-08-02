@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 You are editing the content in the text field with the blue border in the canvas. During the editing process, the AI ​​collaborator gives some feedback.
 
-<img src="../../img/RQ2/What/Artifact-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Artifact-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 1
 You are using system **intCollab**.<br>
@@ -16,7 +16,7 @@ In this scenario, AI ​​collaborator's response is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Artifact-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Artifact-N.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 2
 You are using system **DesignPal**.<br>
@@ -26,4 +26,4 @@ In this scenario, AI ​​collaborator's response is:
 
 The interface you see is shown in the figure below.
 
-<img src="../../img/RQ2/What/Artifact-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/What/Artifact-WA.webp" style="border: .5px solid Gainsboro; max-width: 75%;">

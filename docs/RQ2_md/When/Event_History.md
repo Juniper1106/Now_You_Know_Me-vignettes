@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 After designing for a period, you find a product concept image that you have never seen before (the image with the yellow border), and you ask the AI ​​collaborator for information about the image.
 
-<img src="../../img/RQ2/When/Event_History(when)-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/When/Event_History(when)-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 1
 You are using system **intCollab**.<br>

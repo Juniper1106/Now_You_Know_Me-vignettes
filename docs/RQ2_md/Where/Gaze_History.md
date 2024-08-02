@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 In the final stage, you compare the three product concept images in the canvas repeatedly. During this period, AI ​​collaborator gives some feedback.
 
-<img src="../../img/RQ2/Where/Gaze_History-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
+<img src="img/RQ2/Where/Gaze_History-intro.webp" style="border: .5px solid Gainsboro; max-width: 75%;">
 
 ### Condition 1
 You are using system **DesignPal**.<br>

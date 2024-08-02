@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 In the final stage, you review all the previous contents to confirm the final concept. Area with the blue background is where you currently see.
 
-<img src="../../img/RQ2/Where/View_History-intro.webp" style="border: .5px solid Gainsboro;">
+<img src="img/RQ2/Where/View_History-intro.webp" style="border: .5px solid Gainsboro;">
 
 ### Condition 1
 You are using system **DesignPal**.<br>

@@ -15,8 +15,6 @@ In this scenario, AI ​​collaborator’s thoughts are:
 > - For requirement 2, **I proposed solution C and solution D.** Solution C and solution D both proposed effective strategies for this requirement, but solution D is more cost-effective;
 > - For requirement 3, **I proposed solution E, which you improved.** Solution E provides a unique and innovative idea, but may need further technical verification."
 
-<img src="" style="border: .5px solid Gainsboro; max-width: 75%;">
-
 ### Condition 2
 You are using system **DesignPal**.<br>
 In this scenario, AI ​​collaborator’s thoughts are:

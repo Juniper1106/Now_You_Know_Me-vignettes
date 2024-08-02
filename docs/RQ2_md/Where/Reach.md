@@ -6,8 +6,8 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 After multiple iterations, the text fields A and B in the canvas (Figure 1) are hidden. AI collaborator and you are currently in the final design stage, during which the AI ​​collaborator gives suggestions. (Figure 2 shows the interface you see when checking the hidden content)
 
-<img src="../../img/RQ2/Where/Reach-intro.webp" style="border: .5px solid Gainsboro; max-width: 49%; margin-right: 4px;">
-<img src="../../img/RQ2/Where/Reach-intro2.webp" style="border: .5px solid Gainsboro; max-width: 49%;">
+<img src="img/RQ2/Where/Reach-intro.webp" style="border: .5px solid Gainsboro; max-width: 49%; margin-right: 4px;">
+<img src="img/RQ2/Where/Reach-intro2.webp" style="border: .5px solid Gainsboro; max-width: 49%;">
 
 ### Condition 1
 You are using system **DesignPal**.<br>

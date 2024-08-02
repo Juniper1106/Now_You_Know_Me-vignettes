@@ -6,7 +6,7 @@ You are using a creative collaboration system to collaborate with an AI collabor
 ## Scenario
 AI collaborator and you are working on the final solution. The interface you are currently viewing is shown below. During this process, the AI collaborator gives suggestions. Content within the blue area is what you can currently see.
 
-<img src="../../img/RQ2/Where/View-intro.webp" style="border: .5px solid Gainsboro;">
+<img src="img/RQ2/Where/View-intro.webp" style="border: .5px solid Gainsboro;">
 
 ### Condition 1
 You are using system **intCollab**.<br>
